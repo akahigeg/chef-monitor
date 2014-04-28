@@ -1,5 +1,5 @@
 override["sensu"]["use_embedded_ruby"] = true
-override["sensu"]["version"] = "0.12.6-2"
+override["sensu"]["version"] = "0.12.6-4"
 
 default["monitor"]["master_address"] = nil
 
